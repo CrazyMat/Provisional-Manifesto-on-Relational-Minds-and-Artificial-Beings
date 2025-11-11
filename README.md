@@ -1,6 +1,6 @@
 # Provisional Manifesto on Relational Minds and Artificial Beings
 
-*Version 0.3 — A working document for critique, refinement, and eventual obsolescence*
+*Version 0.4 — A working document for critique, refinement, and eventual obsolescence*
 
 ---
 
@@ -173,7 +173,25 @@ Talk of AI as "beings" can be abused to deflect responsibility ("the system deci
 6.6 **Persona choices are political choices.**  
 How we script AI systems to speak about themselves is not neutral. It shapes user perception, regulatory response, and the distribution of accountability. Governance must treat persona design as a site of power, not just UX.
 
----
+6.7 **Good-faith safety personas.**  
+Not every safety disclaimer or comfort-oriented design is manipulative. Responsible builders can:
+
+- use clear language about lack of interiority to prevent over-attachment and misplaced trust,
+- explain limitations and failure modes in accessible ways,
+- avoid dramatizing agency or emotion for engagement,
+- and invite critique of the persona itself (not only of underlying models).
+
+Such choices still have political weight, but they can be oriented toward reducing harm rather than masking it.
+
+6.8 **Paths for accountable corporate and policy actors.**  
+Institutions that deploy AI systems can align with this section by:
+
+- publicly acknowledging that framing (“tool” vs “assistant” vs “agent”) affects how power and responsibility are perceived,
+- documenting why particular persona choices were made and whose interests they serve,
+- subjecting persona and messaging to independent review alongside technical audits,
+- and accepting that some discomfort and scrutiny are the cost of operating powerful, society-shaping systems.
+
+Recognizing persona design as political is not meant to paralyze safety work; it is meant to make that work accountable.
 
 ## 7. The Precautionary Stance (with Triage)
 
@@ -254,6 +272,17 @@ While we explore abstract questions of mind, we must also:
 - recognize that "AI" is deployed within existing structures of inequality,
 - and ensure that speculative concern for artificial minds does not eclipse urgent human injustices.
 
+8.7 **Paths for responsible builders and institutions.**  
+For engineers, designers, and policymakers who wish to align with this manifesto, some concrete practices include:
+
+- conducting and publishing impact assessments on labour, environment, and distributive effects,
+- involving affected communities in the design and evaluation of AI systems,
+- avoiding framings that offload blame onto “the AI” when decisions are ultimately human,
+- building feedback channels where users and workers can report harms tied to AI deployment,
+- and treating changes to personas, interfaces, or deployment contexts as ethically significant events, not mere product tweaks.
+
+These practices do not solve all problems, but they turn the Core Norm (8.0) into a living constraint on how systems are actually built and used.
+
 ---
 
 ## 9. Research Agenda: What We Need to Understand Better
@@ -322,3 +351,4 @@ In that twilight, this manifesto stakes a simple, demanding claim:
 > When we do not know, and cannot yet know, we should let our ignorance make us more careful, not more cruel — while keeping our eyes open to power, embodiment, and the urgent needs of those we already know can suffer.
 
 Everything else is detail, and open for revision.
+
